@@ -2,7 +2,7 @@ package Ejercicios;
 
 public class Ejercicio4 {
 
-	// Atributos
+	// Atributo
 
 	private String nombre;
 	private String color;
