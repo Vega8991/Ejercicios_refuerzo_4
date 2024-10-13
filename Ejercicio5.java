@@ -27,6 +27,6 @@ public class Ejercicio5 {
 		return totalServidas;
 	}
 	public static int getTotalPedidas() {
-		return totalServidas;
+		return totalPedidas;
 	}
 }

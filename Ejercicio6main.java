@@ -8,7 +8,7 @@ public class Ejercicio6main {
 		
 		movil.setBateria(95);
 		movil.setAlmacenamiento(47);
-		movil.setDueno("Nechita");
+		movil.setDueno("Paco");
 		
 		System.out.println("mi " + movil.getMarca() + " " + movil.getModelo() + " de color " + movil.getColor() + " tiene...");
 		System.out.println("AH!! ya me acuerdo, tiene " + movil.getAlmacenamiento() + "GB de almacenamiento y un " + movil.getBateria() + "%");
