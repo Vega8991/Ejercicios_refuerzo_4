@@ -42,6 +42,8 @@ public class Ejercicio6 {
 	public void setAlmacenamiento(int newAlmacenamiento) {
 		if(newAlmacenamiento >= 0) {
 			this.almacenamiento = newAlmacenamiento;
+		}else {
+			System.err.println("error de importacion de datos");
 		}
 	}
 	public void setBateria(int newBateria) {

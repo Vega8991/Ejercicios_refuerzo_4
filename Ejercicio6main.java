@@ -7,7 +7,7 @@ public class Ejercicio6main {
 		Ejercicio6 movil = new Ejercicio6("12","verde","IPhone",128,65,"Manuel");
 		
 		movil.setBateria(95);
-		movil.setAlmacenamiento(47);
+		movil.setAlmacenamiento(65);
 		movil.setDueno("Paco");
 		
 		System.out.println("mi " + movil.getMarca() + " " + movil.getModelo() + " de color " + movil.getColor() + " tiene...");
